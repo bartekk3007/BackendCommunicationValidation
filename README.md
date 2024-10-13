@@ -8,3 +8,4 @@ How communication and transactions works
 ![OstatecznyWygladTransakcji](https://github.com/user-attachments/assets/af9ec984-a339-4417-af54-f5fb63ad4fad)
 
 Output "Do pliku zapisano - " is only for debugging purposes
+Coloured console text and use of windows.h which makes code non-multi-platform is only for debugging purposes
