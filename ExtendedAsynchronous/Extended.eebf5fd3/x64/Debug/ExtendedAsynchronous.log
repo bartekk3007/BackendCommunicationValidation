@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\48571\source\repos\ExtendedAsynchronous\validation.hpp(76,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\48571\source\repos\ExtendedAsynchronous\validation.hpp(141,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\48571\source\repos\ExtendedAsynchronous\validation.hpp(142,17): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\48571\source\repos\ExtendedAsynchronous\main.cpp(63,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\48571\source\repos\ExtendedAsynchronous\main.cpp(66,33): warning C4101: 'logicException': unreferenced local variable
+C:\Users\48571\source\repos\ExtendedAsynchronous\main.cpp(150,30): warning C4101: 'logicException': unreferenced local variable
+C:\Users\48571\source\repos\ExtendedAsynchronous\utilities.hpp(104,1): warning C4715: 'getValidatorsNumber': not all control paths return a value
+C:\Users\48571\source\repos\ExtendedAsynchronous\utilities.hpp(126,1): warning C4715: 'getValidator': not all control paths return a value
+  ExtendedAsynchronous.vcxproj -> C:\Users\48571\source\repos\ExtendedAsynchronous\x64\Debug\ExtendedAsynchronous.exe
