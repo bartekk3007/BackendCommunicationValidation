@@ -10,3 +10,5 @@ How communication and transactions works
 Output "Do pliku zapisano - " is only for debugging purposes
 <br>
 Coloured console text and use of windows.h which makes code non-multi-platform is only for debugging purposes
+<br>
+Communication is taking place mainly through file "plik.txt", for validation files "imiona.txt" and "glosy.txt" are also used to collect active users and validators votes  
