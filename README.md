@@ -12,5 +12,4 @@ Output "Do pliku zapisano - " is only for debugging purposes
 Coloured console text and use of windows.h which makes code non-multi-platform is only for debugging purposes
 <br>
 Communication is taking place mainly through file "plik.txt", for validation files "imiona.txt" and "glosy.txt" are also used to collect active users and validators votes  
-<br>
-Output in a file is not directly what user typed - it is preceded by sender's name with a special sign
+Output in a file is not directly what user typed - it is preceded by sender's name with a special sign (in this case question mark (?))
